@@ -78,14 +78,4 @@ To replicate this project:
 
       * Connect the `daily_kpi_summary` table from BigQuery as a data source in a new Looker Studio report.
 
------
 
-## 💡 Personal Learnings
-
-This project was a deep dive into the practical challenges of building a data pipeline. A significant portion of the project involved debugging a persistent issue with the Google Analytics Measurement Protocol. While the initial goal of a live pipeline was pivoted, the process of troubleshooting, researching alternatives, and implementing a robust backup plan (direct CSV upload) was an invaluable experience in real-world problem-solving and adaptability—a key skill for any data professional.
-
------
-
-## 👤 Author
-
-  * **Asrın Sevim** - [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/asr%C4%B1n-sevim-951293163) | [GitHub](https://www.google.com/search?q=https://github.com/asrinsevim)
