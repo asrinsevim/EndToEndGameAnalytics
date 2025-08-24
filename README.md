@@ -16,8 +16,6 @@ An interactive dashboard was created in Looker Studio to visualize the final, ag
 
 **[➡️ View the Live Interactive Dashboard](https://lookerstudio.google.com/reporting/ae73a8d5-1339-4f59-ae5c-20e12e18e71a)**
 
-> **Note:** Please replace the link above and add a screenshot of your dashboard named `dashboard_screenshot.png` to your repository.
-
 -----
 
 ## 🛠️ Technical Architecture
