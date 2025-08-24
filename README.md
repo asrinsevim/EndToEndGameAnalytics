@@ -10,7 +10,7 @@
 
 ## 🚀 Project Summary
 
-This project demonstrates a professional-grade, end-to-end data pipeline that processes live event data for a mobile game. It showcases a complete workflow from data collection in **Firebase** to transformation in **BigQuery** and final visualization in a **Looker Studio** dashboard, providing actionable insights for business stakeholders such as product managers and marketing teams.
+This project demonstrates an end-to-end data pipeline that processes live event data for a mobile game. It showcases a complete workflow from data collection in **Firebase** to transformation in **BigQuery** and final visualization in a **Looker Studio** dashboard, providing actionable insights for business stakeholders such as product managers and marketing teams.
 
 ---
 
