@@ -44,36 +44,4 @@ The flow of data from generation to visualization is as follows:
       * Detailed tables for granular analysis.
       * Interactive date range filters for dynamic reporting.
 
------
-
-## ⚙️ Setup & Usage
-
-To replicate this project:
-
-1.  **Prerequisites:**
-
-      * Python 3.x
-      * A Google Cloud Platform account with BigQuery enabled.
-
-2.  **Configuration & Data Generation:**
-
-      * Run the `generate_csv_for_bigquery.py` script to create the `firebase_events_export.csv` data file.
-        ```bash
-        python generate_csv_for_bigquery.py
-        ```
-
-3.  **Data Ingestion:**
-
-      * In BigQuery, create a new dataset.
-      * Create a new table within the dataset by uploading the `firebase_events_export.csv` file, using the "Auto-detect schema" feature.
-
-4.  **Data Transformation:**
-
-      * Execute the main SQL analysis query (found in `analysis_query.sql`) in BigQuery.
-      * Save the results of the query as a new table named `daily_kpi_summary`.
-
-5.  **Visualization:**
-
-      * Connect the `daily_kpi_summary` table from BigQuery as a data source in a new Looker Studio report.
-
 
