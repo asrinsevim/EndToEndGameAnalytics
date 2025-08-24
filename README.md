@@ -14,7 +14,7 @@ This project is a complete, end-to-end simulation of a data analytics pipeline f
 
 An interactive dashboard was created in Looker Studio to visualize the final, aggregated data.
 
-**[➡️ View the Live Interactive Dashboard](https://www.google.com/search?q=https://your-looker-studio-link-here)**
+**[➡️ View the Live Interactive Dashboard](https://lookerstudio.google.com/reporting/ae73a8d5-1339-4f59-ae5c-20e12e18e71a)**
 
 > **Note:** Please replace the link above and add a screenshot of your dashboard named `dashboard_screenshot.png` to your repository.
 
